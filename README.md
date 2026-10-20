@@ -4,7 +4,7 @@ Estudante de Ciência da Computação na PUCPR, em busca de estágio na área de
 
 Curitiba, Paraná · [LinkedIn](https://www.linkedin.com/in/ana-sales-1b7235372/)
 
-[**Baixar currículo em PDF**](cv/Ana_Carolina_Curi_de_Sales_CV.pdf)
+[**Baixar currículo em PDF**](cv/Ana_Carolina_Curi_de_Sales_CV.pdf) · [Resume in English (PDF)](cv/Ana_Carolina_Curi_de_Sales_Resume_EN.pdf)
 
 ## Objetivo
 
