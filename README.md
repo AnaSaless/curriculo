@@ -17,12 +17,14 @@ Janeiro de 2024 a janeiro de 2028 · cursando
 
 ## Projetos
 
-### Sistema web de e-commerce
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+### ThermoAgro
+`Python` `Flask` `MQTT` `Socket.IO` `SQLite`
 
-- Desenvolvimento de interface web e funcionalidades em JavaScript
-- Cadastro e gerenciamento de usuários e produtos
-- Integração com banco de dados MySQL
+- Painel web para monitorar temperatura, umidade e nível de um silo agrícola em tempo real
+- Comunicação com o dispositivo via MQTT e atualização ao vivo da interface com Socket.IO
+- Acionamento remoto de atuador (porta do silo) com registro do histórico de acionamentos
+- Área de administração com controle de acesso e persistência dos dados em SQLite
+- Código em [AnaSaless/thermoagro](https://github.com/AnaSaless/thermoagro)
 
 ### Infraestrutura de rede
 `Cisco Packet Tracer`
