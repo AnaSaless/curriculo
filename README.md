@@ -33,18 +33,14 @@ Janeiro de 2024 a janeiro de 2028 · cursando
 - Configuração de VLAN, DHCP, NAT e VPN
 - Configuração de servidores DNS e roteamento
 
-### Sistema web de cadastro
-`HTML` `CSS` `Python` `SQL`
-
-- Interface web responsiva com HTML e CSS
-- Funcionalidades em Python para processamento e manipulação de dados
-- Integração com banco de dados SQL para cadastro e consulta de informações
-- Formulários interativos para inserção e validação de dados
-- Boas práticas de organização entre frontend e backend
-
 ### Remain Luxury (ModaLuxo)
+`React` `Tailwind CSS` `Vite` `Node.js` `Express` `MySQL`
 
-Marketplace de moda de luxo de segunda mão, projeto em equipe da disciplina Experiência Criativa (PUCPR, 2026/1). Código em [AnaSaless/remain-luxury](https://github.com/AnaSaless/remain-luxury).
+- Marketplace de moda de luxo de segunda mão com catálogo, busca com filtros, carrinho e pedidos
+- Interface em React, Tailwind CSS e Vite, e API REST em Node.js e Express com autenticação JWT
+- Cadastro de peças com upload de imagens e chat entre comprador e vendedor
+- Banco de dados MySQL com 9 tabelas (usuários, produtos, pedidos, avaliações e conversas)
+- Projeto em equipe da disciplina Experiência Criativa (PUCPR, 2026/1). Código em [AnaSaless/remain-luxury](https://github.com/AnaSaless/remain-luxury)
 
 ## Habilidades
 
